@@ -6,7 +6,7 @@ Mobile Application developer
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-I have found my passion in mobile development, I have been working as a mobile developer for 3 years, first I started with android with java then I switched to Flutter with a dart, and I have worked in different companies with a different types of business.
+Software engineer passionate about Mobile Programming with 3-year experience in mobile development(Android & Flutter), I started with Android and moved to Flutter, I have experience in numerous companies with various types of the business, constantly striving to learn new technologies and find ways to improve myself.
 
 * 🌍  I'm based in Egypt, Mansoura
 * ✉️  You can contact me at [aliradwan7789@gmail.com](mailto:aliradwan7789@gmail.com)
