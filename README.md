@@ -1,52 +1,139 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ali+Radwan;Senior+Flutter+Developer;Mobile+Engineer+%7C+7%2B+Years;Building+Production+Apps+at+Scale" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <a href="mailto:aliradwan7789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aliradwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Flutter-7%2B%20Years-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PSM%20I-Certified-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+</p>
 
-Hi 👋 My name is Ali Radwan    
-===========================
+---
 
-Mobile Application developer   [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+## 👨‍💻 About Me
 
-----------------------------
+I'm a **Senior Flutter Developer** based in **Riyadh, Saudi Arabia 🇸🇦**, with **7+ years of mobile engineering experience** (6+ in Flutter). I specialize in building **production-grade, cross-platform apps** for government and enterprise clients — with a strong emphasis on clean architecture, security hardening, and real-world performance at scale.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+Currently at the **National Housing Company (NHC)**, where I own end-to-end delivery of **Ahal** — a live community & real estate platform — and technically lead a team of 3 remote Flutter developers.
 
-Software engineer passionate about Mobile Programming with 4-year experience in mobile development(Android & Flutter), I started with Android and moved to Flutter, I have experience in numerous companies with various types of the business, constantly striving to learn new technologies and find ways to improve myself.
+- 🏢 **Senior Flutter Developer** @ National Housing Company (NHC), Riyadh
+- 📱 Shipped apps used by **20K+ users** generating **SAR 200K+** in revenue
+- 🔐 Deep expertise in **mobile security**: SSL pinning, biometric auth, OWASP Mobile Top 10
+- 🏗️ Advocate for **Feature-First Clean Architecture** with Riverpod, Bloc, GetIt & AutoRoute
+- 🤝 Technical lead, PR reviewer & final merge authority for 3 remote devs
+- 📜 **PSM I Certified** (Scrum.org) | B.Sc. Computer Science
 
-* 🌍  I'm based in Egypt, Mansoura
-* ✉️  You can contact me at [aliradwan7789@gmail.com](mailto:aliradwan7789@gmail.com)
-* 🤝  I'm open to collaborating on Flutter Application
+---
 
-<a href="https://www.twitter.com/AliRadw88165878" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AliRadw88165878?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/aliradwan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aliradwan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://wa.me/0201062767789"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+## 🚀 Highlight: Ahal App — NHC
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+> *Live community & real estate platform on the App Store & Google Play*
 
+| Metric | Value |
+|--------|-------|
+| 📥 Total Downloads | **20,000+** (10K+ per platform) |
+| 👥 Monthly Active Users | **4,000+** |
+| 💰 Revenue Contribution | **SAR 200,000+** cumulative |
+| 📦 App Size Reduction | **110 MB → 65 MB** (~41% smaller) |
 
-### Socials
+**Key Engineering:**
+- Feature-First Clean Architecture (GetIt, Injectable, Dio, AutoRoute) with feature flags
+- Firebase Remote Config for dynamic splash / icon / theme switching
+- Live streaming & live commerce via HLS pipeline + Firestore control plane
+- Backend-driven dynamic forms, tenant management, facility booking, ServiceNow integration
+- Apple Wallet (PKPass) & Google Wallet integration
+- Normalized entity cache with Riverpod for cross-screen sync
 
-<p align="left"> <a href="https://www.dev.to/WekaRadwan1414" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Ali_Radwan#9177" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/aliradwan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ali-radwan-19731086/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/aliradwan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/aliradwan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AliRadw88165878" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## 🛠️ Tech Stack
 
-<b>My GitHub Stats</b>
+<p align="center">
 
-<a href="http://www.github.com/aliradwan"><img src="https://github-readme-stats.vercel.app/api?username=aliradwan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aliradwan's GitHub stats" /></a>
+**Mobile**
 
-<a href="http://www.github.com/aliradwan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aliradwan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-<a href="http://www.github.com/aliradwan"><img src="https://activity-graph.herokuapp.com/graph?username=aliradwan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Architecture & State**
 
-<a href="https://github.com/aliradwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliradwan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=flat-square)
+![Riverpod](https://img.shields.io/badge/Riverpod-0EA5E9?style=flat-square)
+![Bloc](https://img.shields.io/badge/BLoC%2FCubit-5C6BC0?style=flat-square)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-10B981?style=flat-square)
+![GetIt](https://img.shields.io/badge/GetIt+Injectable-F59E0B?style=flat-square)
 
-<b>Top Repositories</b>
+**Backend & Services**
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-6B7280?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-0EA5E9?style=flat-square)
+
+**Security**
+
+![SSL Pinning](https://img.shields.io/badge/SSL_Pinning-DC2626?style=flat-square)
+![Biometric Auth](https://img.shields.io/badge/Biometric_Auth-7C3AED?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP_Mobile_Top_10-000000?style=flat-square)
+
+**DevOps & Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0EA5E9?style=flat-square)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</p>
+
+---
+
+## 📂 Notable Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **Ahal** (NHC) | Flutter, Riverpod, Firebase, HLS | 20K+ downloads, live commerce, real estate community |
+| **Deem Mail** (SDAIA) | Flutter, Riverpod, SOLID | Enterprise email — multi-account, offline sync, deep links, security hardening |
+| **NHC Technician App** | Flutter, Clean Architecture | Built from scratch, field operations for NHC technicians |
+| **Trasol** | Flutter, Provider | Transport logistics platform |
+| **NHRC** | Flutter, GetX | Qatar national HR platform |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliRadwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRadwan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRadwan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Experience Timeline
+
+```
+2024 – Present   │ Senior Flutter Developer @ NHC, Riyadh
+                 │   → Ahal app, NHC Technician app, leads 3 remote devs
+                 │
+2022 – 2024      │ Senior Flutter Developer @ SDAIA, Riyadh
+                 │   → Deem Mail enterprise email app, org of ~50 engineers
+                 │
+2020 – 2022      │ Flutter Developer @ FutureTech (Remote)
+                 │
+2019 – 2020      │ Flutter Developer @ Tekamy (Remote)
+                 │
+2018 – 2019      │ Junior Android (Java) Developer @ Aait, Mansoura
+```
+
+---
+
+<p align="center">
+  <i>Open to Senior Flutter Developer opportunities in Riyadh 🇸🇦</i><br/>
+  <a href="mailto:aliradwan7789@gmail.com">aliradwan7789@gmail.com</a>
+</p>
