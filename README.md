@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ali+Radwan;Senior+Flutter+Developer;Mobile+Engineer+%7C+7%2B+Years;Building+Production+Apps+at+Scale" alt="Typing SVG" />
 </h1>
@@ -7,6 +9,7 @@
   <a href="https://www.linkedin.com/in/aliradwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Flutter-7%2B%20Years-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/PSM%20I-Certified-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <a href="https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md"><img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg"/></a>
 </p>
 
 ---
